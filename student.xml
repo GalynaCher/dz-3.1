@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <student_of>Oxford</student_of>
+  <name>Mark</name>
+  <surname>Smith</surname>
+  <age>20</age>
+  <average_mark>75.457</average_mark>
+  <disciplines>
+    <discipline>
+      <name>Social science</name>
+      <course>1</course>
+      <hours>158</hours>
+      <lectors>
+        <lector name="John Moon" academic_degree="Ph.D"/>
+		<lector name="Talha Omer" academic_degree="MBA"/>
+      </lectors>
+    </discipline>
+    <discipline>
+      <name>Physics</name>
+      <course>3</course>
+      <hours>235</hours>
+		<lectors>
+			<lector name="Thorne Kip" academic_degree="Professor"/>
+			<lector name="Michio Kaku" academic_degree="Ph.D"/>
+		</lectors>
+    </discipline>
+  </disciplines>
+</student>

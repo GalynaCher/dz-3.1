@@ -1,0 +1,36 @@
+{
+	"student of": "Oxford",
+	"name": "Mark",
+	"surname": "Smith",
+	"age": 20,
+	"average mark":75.457,
+	"disciplines": [{
+			"name": "Social science",
+			"course": 1,
+			"hours": 158,
+			"lectors": [{
+					"name": "John Moon",
+					"academic degree": "Ph.D"
+				},
+				{
+					"name": "Talha Omer",
+					"academic degree": "MBA"
+				}
+			]
+		},
+		{
+			"name": "Physics",
+			"course": 3,
+			"hours": 235,
+			"lectors": [{
+					"name": "Thorne Kip",
+					"academic degree": "Professor"
+				},
+				{
+					"name": "Michio Kaku",
+					"academic degree": "Ph.D"
+				}
+			]
+		}
+	]
+}
