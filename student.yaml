@@ -1,0 +1,29 @@
+student:
+  student_of: Oxford
+  name: Mark
+  surname: Smith
+  age: 20
+  average_mark: 75.457
+  disciplines:
+    - discipline:
+        name: Social science
+        course: 1
+        hours: 158
+        lectors:
+          - lector:
+              name: John Moon
+              academic_degree: Ph.D
+          - lector:
+              name: Talha Omer
+              academic_degree: MBA
+    - discipline:
+        name: Physics
+        course: 3
+        hours: 235
+        lectors:
+          - lector:
+              name: Thorne Kip
+              academic_degree: Professor
+          - lector:
+              name: Michio Kaku
+              academic_degree: Ph.D
